@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aptos": "^1.21.0",
+    "qrcode.react": "^4.2.0"
+  }
+}
